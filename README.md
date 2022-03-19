@@ -24,7 +24,7 @@
     Lavamusic is  a powerful music Bot
     <br />
     <br />
-    <a href="https://discord.com/api/oauth2/authorize?client_id=892268662487121970&permissions=536870911991&redirect_uri=https%3A%2F%2Fdiscord.gg%2FjN8AKsPcwu&response_type=code&scope=guilds.join%20bot%20applications.commands">Invite Lavamusic</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=954726137186091088&permissions=536870911991&redirect_uri=https%3A%2F%2Fdiscord.gg%2FjN8AKsPcwu&response_type=code&scope=guilds.join%20bot%20applications.commands">Invite Lavamusic</a>
     ·
     <a href="https://github.com/iCrazySnoxy/lavamusic/issues">Report Bug</a>
     ·
