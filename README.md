@@ -108,7 +108,7 @@ npm install
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
 
 ## 🚀 Installation using docker-compose
-Alternatively you can run lavamusic on [docker](https://www.docker.com/). Pull the prebuilt docker image from [here](https://ghcr.io/brblacky/lavamusic).  
+Alternatively you can run lavamusic on [docker](https://www.docker.com/). Pull the prebuilt docker image from [here](https://ghcr.io/iCrazySnoxy/lavamusic).  
 See [here](https://github.com/StefanLobbenmeier/lavamusic-docker-compose) for a complete environment.
 
 ## intents
@@ -161,8 +161,8 @@ Then Turn On Both Of Those Settings And Click "Save Changes" Then Your Are Done 
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/dBGt8HcEYA)](https://discord.gg/dBGt8HcEYA)
-[Support Server](https://discord.gg/dBGt8HcEYA) - lavamusic's Support Server Invite
+[![DiscordBanner](https://invidget.switchblade.xyz/JFtFmRSVTt)](https://discord.gg/JFtFmRSVTt)
+[Support Server](https://discord.gg/JFtFmRSVTt) - lavamusic's Support Server Invite
 
 # Donate
 
