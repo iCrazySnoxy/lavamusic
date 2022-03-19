@@ -97,7 +97,7 @@ Warning: Java v14 has issues with Lavalink.
 <!-- INSTALL -->
 ## 🚀 Installation from source
 ```
-git clone https://github.com/brblacky/lavamusic.git
+git clone https://github.com/iCrazySnoxy/lavamusic.git
 ```
 After cloning, run an
 ```
