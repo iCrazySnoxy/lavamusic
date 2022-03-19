@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/iCrazySnoxy/lavamusic">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
@@ -26,9 +26,9 @@
     <br />
     <a href="https://discord.com/api/oauth2/authorize?client_id=892268662487121970&permissions=536870911991&redirect_uri=https%3A%2F%2Fdiscord.gg%2FjN8AKsPcwu&response_type=code&scope=guilds.join%20bot%20applications.commands">Invite Lavamusic</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
+    <a href="https://github.com/iCrazySnoxy/lavamusic/issues">Report Bug</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
+    <a href="https://github.com/iCrazySnoxy/lavamusic/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,7 +53,7 @@ A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://you
 ## 🖼️ Screenshots
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/iCrazySnoxy/lavamusic">
     <img src="https://media.discordapp.net/attachments/876035356460462090/912404827118641202/Screenshot_20211122-234019__01.jpg">
     <img src="https://media.discordapp.net/attachments/876035356460462090/910856250084970518/Screenshot_20211118-170634__01.jpg">
     <img src="https://media.discordapp.net/attachments/876035356460462090/910855739969527849/Screenshot_20211118-170456__01.jpg">
@@ -114,7 +114,7 @@ See [here](https://github.com/StefanLobbenmeier/lavamusic-docker-compose) for a 
 ## intents
 
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/iCrazySnoxy/lavamusic">
     <img src="https://media.discordapp.net/attachments/848492641585725450/894114853382410260/unknown.png">
 
   </a>
@@ -122,7 +122,7 @@ See [here](https://github.com/StefanLobbenmeier/lavamusic-docker-compose) for a 
 When Your Running The Code You Must Have Gotten This Error To Fix This Head Over To Your Bots Discord Application and Go To The Bot Settings And Find This
 
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/iCrazySnoxy/lavamusic">
     <img src="https://media.discordapp.net/attachments/848492641585725450/894115221701001216/unknown.png">
 
   </a>
@@ -168,7 +168,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 
  By Donating, You Will Help Me To Maintain This Project 
 
-- [PayPal](https://www.paypal.me/sdip521)
+- [PayPal](https://www.paypal.me/pandydiscord)
 
 ## 🌎 Locales
 
@@ -179,7 +179,7 @@ Currently available locales are:
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/brblacky/lavamusic/fork)
+1. [Fork the repository](https://github.com/iCrazySnoxy/lavamusic/fork)
 2. Clone your fork: `git clone https://github.com/your-username/lavamusic.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
@@ -191,17 +191,17 @@ Currently available locales are:
 
 ## 🔐 License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/brblacky/lavamusic/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/iCrazySnoxy/lavamusic/blob/master/LICENSE) for more information.
 
-[version-shield]: https://img.shields.io/github/package-json/v/brblacky/lavamusic?style=for-the-badge
-[version-url]: https://github.com/brblacky/lavamusic
-[contributors-shield]: https://img.shields.io/github/contributors/brblacky/lavamusic.svg?style=for-the-badge
-[contributors-url]: https://github.com/brblacky/lavamusic/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brblacky/lavamusic.svg?style=for-the-badge
-[forks-url]: https://github.com/brblacky/lavamusic/network/members
-[stars-shield]: https://img.shields.io/github/stars/brblacky/lavamusic.svg?style=for-the-badge
-[stars-url]: https://github.com/brblacky/lavamusic/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brblacky/lavamusic.svg?style=for-the-badge
-[issues-url]: https://github.com/brblacky/lavamusic/issues
-[license-shield]: https://img.shields.io/github/license/brblacky/lavamusic.svg?style=for-the-badge
-[license-url]: https://github.com/brblacky/lavamusic/blob/master/LICENSE
+[version-shield]: https://img.shields.io/github/package-json/v/iCrazySnoxy/lavamusic?style=for-the-badge
+[version-url]: https://github.com/iCrazySnoxy/lavamusic
+[contributors-shield]: https://img.shields.io/github/contributors/iCrazySnoxy/lavamusic.svg?style=for-the-badge
+[contributors-url]: https://github.com/iCrazySnoxy/lavamusic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/iCrazySnoxy/lavamusic.svg?style=for-the-badge
+[forks-url]: https://github.com/iCrazySnoxy/lavamusic/network/members
+[stars-shield]: https://img.shields.io/github/stars/iCrazySnoxy/lavamusic.svg?style=for-the-badge
+[stars-url]: https://github.com/iCrazySnoxy/lavamusic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/iCrazySnoxy/lavamusic.svg?style=for-the-badge
+[issues-url]: https://github.com/iCrazySnoxy/lavamusic/issues
+[license-shield]: https://img.shields.io/github/license/iCrazySnoxy/lavamusic.svg?style=for-the-badge
+[license-url]: https://github.com/iCrazySnoxy/lavamusic/blob/master/LICENSE
